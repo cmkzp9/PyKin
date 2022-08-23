@@ -3,9 +3,11 @@ Python based PKE solver for reactivity oscillations
 
 PHASE 1
 Return plots for user defined oscillation
+  
   -rho v time
   -precurcers v time
   -power v time
+
 GUI for Asin(Bx) + C
 
 PHASE 2
